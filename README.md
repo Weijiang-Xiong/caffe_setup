@@ -79,7 +79,7 @@ CUDA_SDK_LIB_PATH = %CUDA_SDK_PATH%\common\lib\x64
 
 打开命令提示符 输入`set cuda`环境变量都出现了，可以。
 
-![1541588601201](C:\Users\Weijiang\AppData\Roaming\Typora\typora-user-images\1541588601201.png)
+![1541588601201](https://raw.githubusercontent.com/ShallowDock/how-to-install-caffe/master/1541588601201.png)
 
 然后`cd C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\extras\demo_suite`
 
@@ -173,7 +173,7 @@ VS2017中视图-属性管理器，为caffe和libcaffe添加`C:\Program Files\NVI
 
 在`https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv`下载两个包
 
-![1541596838728](C:\Users\Weijiang\AppData\Roaming\Typora\typora-user-images\1541596838728.png)
+![1541596838728](https://raw.githubusercontent.com/ShallowDock/how-to-install-caffe/master/1541596838728.png)
 
 `opencv_python-2.4.13.5-cp27-cp27m-win_amd64.whl`放在anaconda2的目录下面`C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda2_64\Lib\site-packages`，然后开管理员CMD，打cd 然后复制路径，enter，定位到这个文件夹，然后复制文件全名，打上pip install opencv_python-2.4.13.5-cp27-cp27m-win_amd64.whl
 
