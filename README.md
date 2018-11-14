@@ -1,6 +1,6 @@
 #### 0. 使用的环境
 
-- OS：Windows 10 x64
+- OS：Windows 10 x64 专业版
 - CPU：Intel Core i5-4210H 2.90GHz
 - GPU：Nvidia GEFORCE GTX 860M
 - Memory RAM：8GB
