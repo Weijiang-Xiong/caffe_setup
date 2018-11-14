@@ -109,6 +109,7 @@ C:\Users\Weijiang\Miniconda2\Library\mingw-w64\bin
 C:\Users\Weijiang\Miniconda2\Library\usr\bin
 C:\Users\Weijiang\Miniconda2\Library\bin
 C:\Users\Weijiang\Miniconda2\Scripts
+
 ```
 
 caffe用到的是anaconda2 with python2.7.15 还要装protobuf。由于其他项目需求，我还要用到anaconda3，因此需要处理两个环境并存的问题。
